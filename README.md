@@ -5,8 +5,8 @@ Plataforma para que jogadores possam encontrar um duo (parceiro) em seus jogos. 
 ## Imagens
 
 <p>
-    <img width="480" src="/img001.PNG">
-    <img width="480" src="/img002.PNG">
+    <img width="1280" src="/img001.PNG">
+    <img width="1280" src="/img002.PNG">
 </p>
 
 ## Tecnologias usada
